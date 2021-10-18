@@ -2,7 +2,10 @@
   "name": "cermag",
   "version": "0.1.0",
   "description": "A React + JS app with Magic passwordless authentication.",
+  "homepage": "http://yash-deore.github.io/cermag",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -24,6 +27,7 @@
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "react-scripts": "4.0.2"
   },
   "browserslist": {
