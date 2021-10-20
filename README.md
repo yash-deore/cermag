@@ -31,6 +31,32 @@
   <img src="https://ipfs.infura.io/ipfs/QmXSZvc48q4UDBVDTgFLYSPbKUr7xz5XSGo4P5LowxErSs" width="400" title="hover text">
 </p>
 
+> # 🔍 Explore 🔍 :
+
+<p >
+  <img src="https://ipfs.infura.io/ipfs/QmUAfFKLy1mrhYSRaviV7w2JRQdJe6KLdxAabDH4AVZZhh" width="600" title="hover text">
+</p>
+
+> # 🖇️ Connect 🖇️ :
+
+<p >
+  <img src="https://ipfs.infura.io/ipfs/Qmf5wpZDcbvwGoEVkkAStzrChdhPUYnmHS2kBP6T3w1BJb" width="600" title="hover text">
+</p>
+
+<p >
+  <img src="https://ipfs.infura.io/ipfs/QmURrdK6XPfJ3fKCarBSVNPgkhEHaguoRCNCXUBAikANWW" width="600" title="hover text">
+</p>
+
+> # 💬 ChatRooms 💬 :
+
+<p >
+  <img src="https://ipfs.infura.io/ipfs/QmcL2G84iSXSxhdnJ4tbyD9THLvvn31GoH4DECz3puM5vi" width="600" title="hover text">
+</p>
+
+<p >
+  <img src="https://ipfs.infura.io/ipfs/QmXtd4AK6TeyP1XRsZudofLGaaouVomeHmy9kPEpr25vaQ" width="400" title="hover text">
+</p>
+
 > # 🐱‍👤 Issues resolved by this Dapp 🐱‍👤 :
 
 ```

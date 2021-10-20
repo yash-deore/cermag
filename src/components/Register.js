@@ -67,8 +67,6 @@ const Register = () => {
                 <br />
 
                 <Button type="submit">Register</Button>
-                {name}
-                {bio}
             </Form>
         </Container>
     );
