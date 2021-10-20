@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/cermag/static/css/main.343d02d1.chunk.css",
-    "main.js": "/cermag/static/js/main.3f1ee0bf.chunk.js",
-    "main.js.map": "/cermag/static/js/main.3f1ee0bf.chunk.js.map",
+    "main.js": "/cermag/static/js/main.1191ebcb.chunk.js",
+    "main.js.map": "/cermag/static/js/main.1191ebcb.chunk.js.map",
     "runtime-main.js": "/cermag/static/js/runtime-main.5bca238c.js",
     "runtime-main.js.map": "/cermag/static/js/runtime-main.5bca238c.js.map",
     "static/css/2.0a9ec390.chunk.css": "/cermag/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.d61295ae.chunk.js": "/cermag/static/js/2.d61295ae.chunk.js",
-    "static/js/2.d61295ae.chunk.js.map": "/cermag/static/js/2.d61295ae.chunk.js.map",
+    "static/js/2.22e2cb88.chunk.js": "/cermag/static/js/2.22e2cb88.chunk.js",
+    "static/js/2.22e2cb88.chunk.js.map": "/cermag/static/js/2.22e2cb88.chunk.js.map",
     "index.html": "/cermag/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/cermag/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.343d02d1.chunk.css.map": "/cermag/static/css/main.343d02d1.chunk.css.map",
-    "static/js/2.d61295ae.chunk.js.LICENSE.txt": "/cermag/static/js/2.d61295ae.chunk.js.LICENSE.txt"
+    "static/js/2.22e2cb88.chunk.js.LICENSE.txt": "/cermag/static/js/2.22e2cb88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5bca238c.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.d61295ae.chunk.js",
+    "static/js/2.22e2cb88.chunk.js",
     "static/css/main.343d02d1.chunk.css",
-    "static/js/main.3f1ee0bf.chunk.js"
+    "static/js/main.1191ebcb.chunk.js"
   ]
 }
