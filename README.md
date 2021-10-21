@@ -3,13 +3,13 @@
 > # 👀 Preview GIFs 👀 :
 
 <p >
-  <img src="https://gateway.pinata.cloud/ipfs/QmbbjHuSHYtsAnJHVmTr3LuXaPhfAYiZXUrFYRwFnqqnen" width="600" title="hover text">
+  <img src="./gifs/CermagGif1.gif" width="600" title="CermagGif1">
 </p>
 
 <br />
 
 <p >
-  <img src="https://gateway.pinata.cloud/ipfs/QmWNx8phVzi2taSjNZKxGFkvHRJetUodeMpuxQMq35zkU9" width="600" title="hover text">
+  <img src="./gifs/CermagGif2.gif" width="600" title="CermagGif2">
 </p>
 
 > # 🔗 Links 🔗 :
