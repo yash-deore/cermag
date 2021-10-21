@@ -34,7 +34,7 @@ export default function Login() {
             <h1>Please sign up or login</h1>
 
             <Form.Group className="mb-3">
-                <Form.Label>Name :</Form.Label>
+                <Form.Label>Email :</Form.Label>
                 <Form.Control
                     type="email"
                     placeholder="Email"
