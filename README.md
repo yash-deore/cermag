@@ -1,5 +1,17 @@
 # CerMag
 
+> # 👀 Preview GIFs 👀 :
+
+<p >
+  <img src="https://gateway.pinata.cloud/ipfs/QmbbjHuSHYtsAnJHVmTr3LuXaPhfAYiZXUrFYRwFnqqnen" width="600" title="hover text">
+</p>
+
+<br />
+
+<p >
+  <img src="https://gateway.pinata.cloud/ipfs/QmWNx8phVzi2taSjNZKxGFkvHRJetUodeMpuxQMq35zkU9" width="600" title="hover text">
+</p>
+
 > # 🔗 Links 🔗 :
 
 Issue : https://github.com/ceramicnetwork/ceramic/issues/86 <br />
