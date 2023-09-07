@@ -18,7 +18,6 @@ Issue : https://github.com/ceramicnetwork/ceramic/issues/86 <br />
 Submission : https://gitcoin.co/hackathon/ceramic-identity/projects/11258/cermag <br />
 Demo Video : https://youtu.be/MeKzW_Ej2M0 <br />
 Website : https://yash-deore.github.io/cermag/ <br />
-Chat functionality Repo: https://github.com/yash-deore/cermagchat
 
 > # 💡 Features of this Dapp 💡 :
 
